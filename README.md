@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Igor, mais conhecido como Igão. Bem - vindo.
+<img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=32&duration=3000&pause=1000&color=A259F7&center=true&vCenter=true&width=800&lines=Bem+vindos+ao+meu+aconchego+de+código+!" alt="Typing SVG" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gaguiguinho&theme=synthwave" />
 </a>
